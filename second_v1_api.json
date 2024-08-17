@@ -1,0 +1,82 @@
+{
+    "url": "https://learning.oreilly.com/api/v1/book/9781835466384/",
+    "natural_key": [
+        "9781835466384"
+    ],
+    "authors": [
+        {
+            "name": "Steven F. Lott"
+        }
+    ],
+    "subjects": [],
+    "topics": [
+        {
+            "name": "Python",
+            "slug": "python",
+            "score": -0.010147643099999992,
+            "uuid": "cda50ea0-3a3a-4d54-89bb-a7a4179365e6",
+            "epub_identifier": "9781835466384"
+        }
+    ],
+    "publishers": [
+        {
+            "id": 1,
+            "name": "Packt Publishing",
+            "slug": "packt-publishing"
+        }
+    ],
+    "chapters": [
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/cover.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/title_page.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/nav.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch001.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch002.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch004.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch005.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch006.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch007.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch008.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch009.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch010.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch011.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch012.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch013.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch014.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch015.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch016.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch017.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch018.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch019.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch020.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch021.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch022.xhtml",
+        "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/text/ch023.xhtml"
+    ],
+    "cover": "https://learning.oreilly.com/library/cover/9781835466384/",
+    "chapter_list": "https://learning.oreilly.com/api/v1/book/9781835466384/chapter/",
+    "toc": "https://learning.oreilly.com/api/v1/book/9781835466384/toc/",
+    "flat_toc": "https://learning.oreilly.com/api/v1/book/9781835466384/flat-toc/",
+    "web_url": "https://learning.oreilly.com/library/view/modern-python-cookbook/9781835466384/",
+    "academic_excluded": false,
+    "opf_unique_identifier_type": "epub-id-1",
+    "created_time": "2024-08-02T09:10:53.360875Z",
+    "last_modified_time": "2024-08-02T09:11:33.087447Z",
+    "identifier": "9781835466384",
+    "title": "Modern Python Cookbook - Third Edition",
+    "format": "book",
+    "content_format": "book",
+    "source": "application/epub+zip",
+    "orderable_title": "Modern Python Cookbook - Third Edition",
+    "description": "<span><p><b>Enhance your Python skills with the third edition of Modern Python Cookbook with 130+ new and updated recipes covering Python 3.12, including new coverage on graphics, visualizations, dependencies, virtual environments, and more.\nPurchase of the print or Kindle book includes a free eBook in PDF format</b></p><h4>Key Features</h4><ul><li>New chapters on type matching, data visualization, dependency management, and more</li><li>Comprehensive coverage of Python 3.12 with updated recipes and techniques</li><li>Provides practical examples and detailed explanations to solve real-world problems efficiently</li></ul><h4>Book Description</h4><p>Python is the go-to language for developers, engineers, data scientists, and hobbyists worldwide. Known for its versatility, Python can efficiently power applications, offering remarkable speed, safety, and scalability. This book distills Python into a collection of straightforward recipes, providing insights into specific language features within various contexts, making it an indispensable resource for mastering Python and using it to handle real-world use cases.</p><p>\nThe third edition of Modern Python Cookbook provides an in-depth look into Python 3.12, offering more than 140 new and updated recipes that cater to both beginners and experienced developers. This edition introduces new chapters on documentation and style, data visualization with Matplotlib and Pyplot, and advanced dependency management techniques using tools like Poetry and Anaconda. With practical examples and detailed explanations, this cookbook helps developers solve real-world problems, optimize their code, and get up to date with the latest Python features.</p><h4>What you will learn</h4><ul><li>Master core Python data structures, algorithms, and design patterns</li><li>Implement object-oriented designs and functional programming features</li><li>Use type matching and annotations to make more expressive programs</li><li>Create useful data visualizations with Matplotlib and Pyplot</li><li>Manage project dependencies and virtual environments effectively</li><li>Follow best practices for code style and testing</li><li>Create clear and trustworthy documentation for your projects</li></ul><h4>Who this book is for</h4><p>This Python book is for web developers, programmers, enterprise programmers, engineers, and big data scientists. If you are a beginner, this book offers helpful details and design patterns for learning Python. If you are experienced, it will expand your knowledge base. Fundamental knowledge of Python programming and basic programming principles will be helpful</p></span>",
+    "isbn": "9781835466384",
+    "issued": "2024-07-31",
+    "updated": "2024-08-02T09:11:33.087447Z",
+    "orderable_author": "Lott, Steven F.",
+    "publisher_resource_links": {},
+    "is_active": true,
+    "is_hidden": false,
+    "virtual_pages": 915,
+    "duration_seconds": null,
+    "pagecount": 818,
+    "language": "en"
+}
